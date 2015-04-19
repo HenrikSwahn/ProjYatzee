@@ -1,0 +1,19 @@
+bet
+Ettor: 2
+Tvåor: 0
+Treor: 0
+Fyror: 0
+Femor: 0
+Sexor: 0
+Sum: 2
+Bonus: 0
+Ett par: 12
+Två par: 0
+Triss: 0
+Fyrtal: 0
+Kåk: 0
+Liten stege: 0
+Stor stege: 0
+Chans: 0
+Yatzy: 0
+Total: 14
